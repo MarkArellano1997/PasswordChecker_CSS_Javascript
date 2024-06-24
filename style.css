@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(74, 42, 104);
+}
+
+.box{
+    border: 1px solid white;
+    padding: 10px;
+}
+
+input{
+    background: transparent;
+    outline: none;
+    padding: 1rem;
+    color: white;
+}
+
+button{
+    background: transparent;
+}
+
+#alert{
+    color: white;
+}
